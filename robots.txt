@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aehohdieri.wink-toolkit.org/sitemap.xml
